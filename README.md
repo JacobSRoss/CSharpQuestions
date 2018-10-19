@@ -1,12 +1,12 @@
 # CSharpQuestions
 
-1. Q: What is a namespace?
+1. Q: What is a namespace?  
   It is a container of an environment that holds all of the code and work that is done in a software project.
-2. Q: What are value types?
+2. Q: What are value types?  
   Value types are the types that variables hold.
-3. Q: What are reference types?
+3. Q: What are reference types?  
   A reference type is a reference to a different value type.
-4. Q: What is an automatic property and how is it useful?
+4. Q: What is an automatic property and how is it useful?  
   Automatic properties are just simplified get/setters they make the code much more streamlined.
 5. Q: What is the purpose of using statement?
   Allows the programmer to use outside code by linking it to your document.
