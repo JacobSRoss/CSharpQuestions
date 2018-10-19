@@ -61,8 +61,12 @@
 30. Q: What is a method?  
   A method is set of code that can be called and ran many different times to do some logic.
 31. Q: What is a property?  
-  
+  It allows classes to get and set values.
 32. Q: What is an access specifier?  
+  They describe the scope of the thing they define.
 33. Q: What access specifiers are supported and what do they mean?  
+  Public allows it to be accessed from anywhere, private lowers the scope to only inside the class or struct, protected allows it to be   used by the class and the inherited class, internal allows it to be accessed within the program and by the assembly, and protected       internal is the same as both protected and internal.
 34. Q: What is a collection?  
+  Creates a collection of objects.
 35. Q: What is a Hash Table?  
+  A table of implements an associative array abstract daya type. It can map keys to values.
